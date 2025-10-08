@@ -8,6 +8,7 @@ This is a fork of HTTYMD Mod for 1.12.2 by [tom5454](https://github.com/tom5454)
 
 HTTYMD's 1.12.2 Fork [GitHub Page](https://github.com/tom5454/HTTYMD-Mod)
 
+### Official Pages for HTTYMD
 HTTYMD's [GitHub Page](https://github.com/HTTYMD-Team/HTTYMD-Mod)
 
 HTTYMD's [Minecraft Forum Page](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/wip-mods/1444480-wip-how-to-train-your-minecraft-dragon-v1-1-0)
